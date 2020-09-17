@@ -9,7 +9,7 @@ demonstrate that I am learning Python and this is my first project/lesson
 
 ## Execution
 
-To execute the program, use the command: 'python helloworld.py' on your terminal
+To execute the program, use the command: `python helloworld.py` on your terminal
 ![Program Screenshot Displaying Hello World on terminal](screenshot.PNG)
 
 ## Useful Websites
